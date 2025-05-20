@@ -2,8 +2,8 @@
 
 # LUMERA
 
-## RPC: https://lumera-testnet-rpc.zeycanode.com/
 ## API: https://lumera-testnet-api.zeycanode.com/
+## RPC: https://lumera-testnet-rpc.zeycanode.com/
 
 ## 💻 System Requirements
 | Components | Minimum Requirements |
