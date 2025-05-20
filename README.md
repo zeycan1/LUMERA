@@ -54,7 +54,7 @@ https://snapshot.rpcdot.com/lumera/genesis.json
 ```
 ## Addrbook
 ```
-https://snapshot.rpcdot.com/lumera/addrbook.json
+https://snapshot.zeycanode.com/lumera/addrbook.json
 ```
 ## Peers And Gas
 ```
