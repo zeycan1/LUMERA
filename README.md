@@ -30,7 +30,7 @@ go version
 ```
 ## Port 
 ```
-echo "export LUM_PORT="28"" >> $HOME/.bash_profile
+echo "export LUM_PORT="26"" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
 ## Binary
